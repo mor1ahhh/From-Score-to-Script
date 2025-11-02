@@ -1,5 +1,5 @@
 # From Score to Script 
-My final code prototype for Working With Data and Code Assignment 3. A Python-coded reimagination of Toby Fox’s “The Third Sanctuary,” built in TunePad.
+My final code prototype for Working With Data and Code Assignment 2. A Python-coded reimagination of Toby Fox’s “The Third Sanctuary,” built in TunePad.
 
 ## Table of Contents
 - [Overview](#overview)
