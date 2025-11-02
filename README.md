@@ -40,7 +40,7 @@ This project was developed as part of a university assignment exploring **creati
 8. **Alternative:** You can also listen to the composition via the uploaded `.mp3` file included in this repository. 
 
 ## Project Background
-I wanted to merge my passion for **music** and **code** by reconstructing a complex song entirely through programming.  
+I wanted to merge my passion for music and code by reconstructing a complex song entirely through programming.  
 Toby Fox’s "The Third Sanctuary" was chosen because of its challenging structure — frequent time signature changes and its layered instrumentation. I wanted to pick a piece that I would enjoy, but also have the capacity for me to experiment and learn new things through its recreation.
 
 ## Credits
