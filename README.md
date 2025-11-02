@@ -11,7 +11,7 @@ My final code prototype for Working With Data and Code Assignment 3. A Python-co
 - [License](#license)
 
 ## Overview
-**From Score to Script** is a creative coding experiment that reimagines Toby Fox’s *“The Third Sanctuary”* using **Python** within the coding environment **TunePad**.
+**From Score to Script** is a creative coding experiment that reimagines Toby Fox’s "The Third Sanctuary" using **Python** within the coding environment **TunePad**.
 The project explores how musical structure can be translated into logical systems, like loops, lists, and functions, transforming a traditional musical score into executable code. Every musical phrase, rhythm, and instrument has been reconstructed algorithmically to mirror the expressive complexity of the original piece.
 
 This project was developed as part of a university assignment exploring **creative coding**.
@@ -41,10 +41,10 @@ This project was developed as part of a university assignment exploring **creati
 
 ## Project Background
 I wanted to merge my passion for **music** and **code** by reconstructing a complex song entirely through programming.  
-Toby Fox’s *“The Third Sanctuary”* was chosen because of its challenging structure — frequent time signature changes and its layered instrumentation. I wanted to pick a piece that I would enjoy, but also have the capacity for me to experiment and learn new things through its recreation.
+Toby Fox’s "The Third Sanctuary" was chosen because of its challenging structure — frequent time signature changes and its layered instrumentation. I wanted to pick a piece that I would enjoy, but also have the capacity for me to experiment and learn new things through its recreation.
 
 ## Credits
-- **Composer:** Toby Fox (original The Third Sanctuary)  
+- **Composer:** Toby Fox (original "The Third Sanctuary")  
 - **Recreation by:** Moriah Zada Acampado Urmeneta 
 - **Supervisor/Tutor:** Anna Savery 
 - **Platform:** [TunePad](https://tunepad.com/)  
