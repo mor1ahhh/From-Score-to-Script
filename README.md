@@ -24,10 +24,10 @@ This project was developed as part of a university assignment exploring **creati
 - **Mathematical rhythm control** using `playNote()` and `rests()` functions  
 
 ## Technologies Used
-- **TunePad** (online music coding environment)
-- **Python** syntax
-- **MIDI playback engine** (built into TunePad)
-- **GitHub** for version control and project sharing  
+- **TunePad**: Online music coding environment)
+- **Python**: Syntax
+- **MIDI playback engine**: Built into TunePad
+- **GitHub**: For version control and project sharing  
 
 ## How to Run
 1. Open [TunePad](https://tunepad.com/) 
