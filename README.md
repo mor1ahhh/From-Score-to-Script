@@ -33,7 +33,7 @@ This project was developed as part of a university assignment exploring **creati
 1. Open [TunePad](https://tunepad.com/) 
 2. Go to **My Projects** and select **Import**  
 3. Download the provided `.json` file.  
-4. Upload the file (e.g. `from_score_to_script.json`) into TunePad.  
+4. Upload the file (e.g. `FROM SCORE TO SCRIPT.json`) into TunePad.  
 5. Press the **Run/Play** button to hear the composition.  
 6. **Optional:** For smoother playback, open the **Tracks** interface in TunePad and allow audio for each cell to generate to 100% — this ensures the playback runs smoothly without stuttering or delays.  
 7. Once all audio has been generated, press **Run/Play** again to listen to the complete composition.  
