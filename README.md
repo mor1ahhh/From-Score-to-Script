@@ -44,7 +44,7 @@ I wanted to merge my passion for **music** and **code** by reconstructing a comp
 Toby Fox’s *“The Third Sanctuary”* was chosen because of its challenging structure — frequent time signature changes and its layered instrumentation. I wanted to pick a piece that I would enjoy, but also have the capacity for me to experiment and learn new things through its recreation.
 
 ## Credits
-- **Composer:** Toby Fox (original *The Third Sanctuary*)  
+- **Composer:** Toby Fox (original The Third Sanctuary)  
 - **Recreation by:** Moriah Zada Acampado Urmeneta 
 - **Supervisor/Tutor:** Anna Savery 
 - **Platform:** [TunePad](https://tunepad.com/)  
